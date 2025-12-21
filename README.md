@@ -1,16 +1,188 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
 
-<!--
-**emaldos/emaldos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNuMmM4a2pmNWV3aGg5aHpwZGo2aDNudGNoMnZwcnI3MW5xaGFsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="120">
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+IT Specialist & Cybersecurity | Building practical security skills through real IT operations, automation, and pentesting labs
+</h4>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=emaldos">
+    <img src="https://komarev.com/ghpvc/?username=emaldos&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+  <a href="https://github.com/emaldos?tab=followers">
+    <img src="https://img.shields.io/github/followers/emaldos?label=Followers" />
+  </a>
+</p>
+
+---
+
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="260">
+
+## 🧠 About Me
+
+- 🛡️ **IT Specialist & Cybersecurity** — Abu Dhabi, UAE
+- 🎯 Career objective: grow in **Cybersecurity & Penetration Testing**
+- 🌐 Strong base in **Networking + Windows Server + IT Operations**
+- 🧪 Daily learning via labs + CTF paths (TryHackMe)
+- 🧰 I build automation tools with **Python/Bash** (with logs + version control)
+- 📫 Email: <a href="mailto:mohamed_hesham1997@outlook.com"><code>mohamed_hesham1997@outlook.com</code></a>
+- 🌍 About me: <a href="https://whoismh.wordpress.com/about-me/"><code>whoismh.wordpress.com/about-me</code></a>
+
+---
+
+## 🛡️ Professional Experience
+
+### IT Specialist & Cybersecurity — Top Care Medical Center
+📍 Abu Dhabi, UAE | Oct 2023 – Present (2+ years)
+
+- IT support operations, troubleshooting (Windows/Linux), documentation & SOPs
+- Windows Server environment exposure: **AD DS, DHCP, DNS**
+- Shares, NAS, printer server, backup validation, baseline hardening notes
+- Network fundamentals: mapping, VLAN/DHCP/DNS basics, Wireshark/Nmap usage
+- Scripted automation for routine checks and reporting
+
+### Monitor & Control Equipment Engineer — Sina Net (Network & Computer Solutions)
+📍 Abu Dhabi, UAE | Mar 2025 – Sep 2025 (6 months)
+
+- Monitoring/controls support and field troubleshooting
+- Operational support, documentation, and technical handling
+
+### IT Specialist — Riadco 2000
+📍 Egypt | Jun 2022 – Jun 2023 (1 year)
+
+- IT operations, user support, system troubleshooting, and environment maintenance
+
+---
+
+## 🎓 Education
+
+- **BSc in Management Information Systems (MIS)** — New Cairo Academy (2021)
+
+---
+
+## 🧪 Training & Certifications
+
+**ISC2 / Udemy**
+- ✅ **ISC2 Certified in Cybersecurity (CC)** — 24 Oct 2025
+
+**Albyan Institute (UAE)**
+- ✅ Cyber Security Training Diploma — 20 Sep 2025
+- ✅ Advanced Cyber Security Training Diploma — 27 Sep 2025
+
+**National Telecommunication Institute (NTI) — Egypt**
+- ✅ CCNA — Aug 2023
+- ✅ Network Attacks & Mitigation — Oct 2023
+- ✅ Ethical Hacking & Network Monitoring — Jan 2024
+
+**Self-Study**
+- ✅ MCSA 2012 & 2016 (2019)
+
+**TryHackMe Paths**
+- ✅ Pre Security
+- ✅ Web Fundamentals
+- ✅ Jr Penetration Tester
+
+---
+
+## 🛠️ Technical Skills
+
+**Networking**
+- Network mapping, VLAN/DHCP/DNS basics, Wireshark/Nmap fundamentals
+
+**Virtualization / Backup**
+- VMware/ESXi, Veeam
+
+**IT Operations**
+- ManageEngine (asset/helpdesk exposure), OS hardening basics, imaging, drivers  
+- AD DS, DHCP, DNS, NAS, Printer Server, File/Share Server
+
+**Systems**
+- Windows Server & Client, Linux (Kali/Ubuntu), WSL
+
+**Security**
+- Attack-surface basics, red team concepts, log review, backup validation
+
+**Scripting / Dev**
+- Python • Bash • VBS • HTML/CSS  
+- Prompt-engineering with ChatGPT for automation (with logs + version control)
+
+**Tools / Platforms**
+- cPanel (email), MS Office/Excel, GitHub, QR/Report/PDF tooling
+
+---
+
+## 🤖 AI Skills
+
+- **Custom GPTs:** Creator of *Kali Master V1.1* (lab workflows, checklists, staged hints)
+- **Prompt Engineering:** decomposition, few-shot templates, guardrails, iterative refinement
+- **Code Co-Pilot:** Python/Bash/PowerShell/VBS, PyQt6 UI builds, regex, quick diagnosis
+- **Automation at Scale:** deps install, checks, exports, Docker/venv bootstraps, PyInstaller
+- **Security Workflows:** incident controls, baseline hardening notes, backup validation
+- **CTF Enablement:** encoding/decoding helpers
+- **Documentation Factory:** SOPs, troubleshooting guides, READMEs, architecture notes
+
+---
+
+## 💡 Soft Skills
+
+- Detail Oriented • Problem Solving • Fast Learner • Teaching  
+- Professional Communication • Social Engineering • Time Management
+
+---
+
+## 🌍 Languages
+
+- Arabic — Native  
+- English — Intermediate  
+
+---
+
+## 📊 GitHub Stats
+
+<h3>
+  <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35">
+</h3>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emaldos&theme=monokai" width="100%">
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emaldos&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emaldos&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaldos&theme=monokai" width="24%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emaldos&theme=monokai&utcOffset=4" width="24%">
+</p>
+
+---
+
+## 📩 Connect With Me
+
+<p align="center">
+  <a href="mailto:mohamed_hesham1997@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+  <a href="https://whoismh.wordpress.com/about-me/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com">
+    <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
+  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="90">
+  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90">
+  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90">
+</p>
+
+---
+
+⚠️ <b>Note:</b><br>
+Tools and technologies listed reflect usage in public repositories, lab environments, and IT operations and do not solely represent proficiency level.
