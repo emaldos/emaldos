@@ -144,10 +144,14 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 ---
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="90">
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="90">
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="90">
-  <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="90">
+  <img src="https://skillicons.dev/icons?i=python" width="90">
+  <img src="https://skillicons.dev/icons?i=php" width="90">
+  <img src="https://skillicons.dev/icons?i=bash" width="90">
+  <img src="https://skillicons.dev/icons?i=powershell" width="90">
+  <img src="https://skillicons.dev/icons?i=html" width="90">
+  <img src="https://skillicons.dev/icons?i=css" width="90">
+  <img src="https://skillicons.dev/icons?i=js" width="90">
+  <img src="https://skillicons.dev/icons?i=cpp" width="90">
 </p>
 
 ---
