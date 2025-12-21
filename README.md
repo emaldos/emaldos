@@ -21,7 +21,7 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 
 ---
 
-<img align="right" src="MAIN.gif" width="260">
+<img align="right" src="gif/MAIN.gif" width="260">
 
 ## 🧠 About Me
 
