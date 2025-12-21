@@ -136,12 +136,6 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 ## 📩 Connect With Me
 
 <p align="center">
-  <a href="mailto:mohamed_hesham1997@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0e75b6?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://whoismh.wordpress.com/about-me/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=wordpress&logoColor=white" />
-  </a>
   <a href="https://tryhackme.com/p/ftko55">
     <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
   </a>
