@@ -4,7 +4,6 @@
   <img src="gif/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65642f61342f66316564613437363864663864383133356337373937373266323833336538382e676966.gif" />
 </p>
 
-
 <h4 align="center">
 IT Specialist & Cybersecurity | Building practical security skills through real IT operations, automation, and pentesting labs
 </h4>
