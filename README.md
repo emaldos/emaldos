@@ -33,12 +33,6 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 
 ---
 
-## 🎓 Education
-
-- **BSc in Management Information Systems (MIS)** — New Cairo Academy (2021)
-
----
-
 ## 🧪 Training & Certifications
 
 **ISC2 / Udemy**
