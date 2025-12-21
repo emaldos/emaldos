@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hesham</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTNuMmM4a2pmNWV3aGg5aHpwZGo2aDNudGNoMnZwcnI3MW5xaGFsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" width="120">
+  <img src="https://camo.githubusercontent.com/1515549d1f52b09fe3b5127cb6ed365e2818d109dffc7315c69be431f98124bc/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66312f65642f61342f66316564613437363864663864383133356337373937373266323833336538382e676966" width="120">
 </p>
 
 <h4 align="center">
