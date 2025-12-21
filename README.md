@@ -153,4 +153,6 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 ⚠️ <b>Note:</b><br>
 Tools and technologies listed reflect usage in public repositories, lab environments, and IT operations and do not solely represent proficiency level.
 
+<p align="center">
 <img align="right" src="gif/MATRIX.gif" width="260">
+</p>
