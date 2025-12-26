@@ -86,7 +86,7 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 
 ## 🤖 AI Skills
 
-- **Custom GPTs:** Creator of *Kali Master V1.1* (lab workflows, checklists, staged hints)
+- **Custom GPTs:** Creator of *Kali Master V2* (lab workflows, checklists, staged hints)
 - **Prompt Engineering:** decomposition, few-shot templates, guardrails, iterative refinement
 - **Code Co-Pilot:** Python/Bash/PowerShell/VBS, PyQt6 UI builds, regex, quick diagnosis
 - **Automation at Scale:** deps install, checks, exports, Docker/venv bootstraps, PyInstaller
