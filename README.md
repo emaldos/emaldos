@@ -54,6 +54,8 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 - ✅ Pre Security
 - ✅ Web Fundamentals
 - ✅ Jr Penetration Tester
+- ✅ Advent of Cyber - 2025
+- ✅ Cyber Security 101
 
 ---
 
