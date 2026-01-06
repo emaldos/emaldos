@@ -56,7 +56,8 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 - ✅ Jr Penetration Tester
 - ✅ Advent of Cyber - 2025
 - ✅ Cyber Security 101
-
+- ✅ CompTIA Pentest+
+  
 ---
 
 ## 🛠️ Technical Skills
