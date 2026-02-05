@@ -123,17 +123,7 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaldos&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emaldos&theme=monokai&utcOffset=4" width="24%">
 </p>
-
----
-
-## 📩 Connect With Me
-
-<p align="center">
-  <a href="https://tryhackme.com/p/ftko55">
-    <img src="https://img.shields.io/badge/TryHackMe-9FEF00?style=for-the-badge&logo=tryhackme&logoColor=black" />
-  </a>
-</p>
-
+>
 ---
 
 <p align="center">
