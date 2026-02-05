@@ -25,7 +25,7 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 
 ## 🧠 About Me
 
-- 🛡️ **IT Specialist & Cybersecurity** — Abu Dhabi, UAE
+- 🛡️ **IT Specialist & Cybersecurity**
 - 🎯 Career objective: grow in **Cybersecurity & Penetration Testing**
 - 🌐 Strong base in **Networking + Windows Server + IT Operations**
 - 🧪 Daily learning via labs + CTF paths (TryHackMe)
