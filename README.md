@@ -36,19 +36,19 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
 ## 🧪 Training & Certifications
 
 **ISC2 / Udemy**
-- ✅ **ISC2 Certified in Cybersecurity (CC)** — 24 Oct 2025
+- ✅ **ISC2 Certified in Cybersecurity (CC)**
 
 **Albyan Institute (UAE)**
-- ✅ Cyber Security Training Diploma — 20 Sep 2025
-- ✅ Advanced Cyber Security Training Diploma — 27 Sep 2025
+- ✅ Cyber Security Training Diploma
+- ✅ Advanced Cyber Security Training Diploma
 
 **National Telecommunication Institute (NTI) — Egypt**
-- ✅ CCNA — Aug 2023
-- ✅ Network Attacks & Mitigation — Oct 2023
-- ✅ Ethical Hacking & Network Monitoring — Jan 2024
+- ✅ CCNA
+- ✅ Network Attacks & Mitigation
+- ✅ Ethical Hacking & Network Monitoring
 
 **Self-Study**
-- ✅ MCSA 2012 & 2016 (2019)
+- ✅ MCSA 2012, 2016 and 2019
 
 **TryHackMe Paths**
 - ✅ Pre Security
