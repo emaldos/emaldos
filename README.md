@@ -123,7 +123,7 @@ IT Specialist & Cybersecurity | Building practical security skills through real 
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=emaldos&theme=monokai" width="24%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emaldos&theme=monokai&utcOffset=4" width="24%">
 </p>
->
+
 ---
 
 <p align="center">
